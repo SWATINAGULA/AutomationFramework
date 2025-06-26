@@ -21,6 +21,9 @@ public class AddLowestPriceProductToCart {
 	public static void main(String[] args) throws IOException {
 		//Read the Common Data from Property file
 
+		
+		
+		//
 				FileInputStream fis = new FileInputStream("./src/test/resources/CommonData.properties");
 
 				Properties p =new Properties();
